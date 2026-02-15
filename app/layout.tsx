@@ -21,7 +21,7 @@ export default function RootLayout({
               <a href="#projects">Projects</a>
               <a href="#contact">Contact</a>
               <a
-                href="https://linkedin.com/in/yugandhar99"
+                href="hhttps://www.linkedin.com/in/yugandhar-e-63863b172/"
                 target="_blank"
               >
                 LinkedIn
