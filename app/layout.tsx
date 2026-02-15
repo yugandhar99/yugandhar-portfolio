@@ -21,13 +21,13 @@ export default function RootLayout({
               <a href="#projects">Projects</a>
               <a href="#contact">Contact</a>
               <a
-                href="https://linkedin.com/in/YOUR_USERNAME"
+                href="https://linkedin.com/in/yugandhar99"
                 target="_blank"
               >
                 LinkedIn
               </a>
               <a
-                href="https://github.com/YOUR_USERNAME"
+                href="https://github.com/yugandhar99"
                 target="_blank"
               >
                 GitHub
